@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ptcwf84ez-deepali-1508.vercel.app/](https://portfolio-ptcwf84ez-deepali-1508.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://deepali-portfolio.vercel.app/](https://deepali-portfolio.vercel.app/)
 
 - 💬 Ask me about **react , javascript , micro frontend , frontend development**
 
